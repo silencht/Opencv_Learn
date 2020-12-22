@@ -10,5 +10,9 @@
 
 [3.4 图像逻辑运算，按位与或非](https://github.com/silencht/opencv_learn/blob/master/src/3_4.py)
 
-[3.5 BGR色彩空间转RGB色彩空间](https://github.com/silencht/opencv_learn/blob/master/src/3_5.py)
+[3.5 BGR空间转RGB空间 , RGB空间转GRAY/YCrCb/HSV空间](https://github.com/silencht/opencv_learn/blob/master/src/3_5.py)
+
+[4.1 放射变换——图像的平移、缩放、旋转](https://github.com/silencht/opencv_learn/blob/master/src/4_1.py)
+
+[4.2 重映射——由原始图像进行复制、x轴翻转、y轴翻转、x&y翻旋转生成新图像](https://github.com/silencht/opencv_learn/blob/master/src/4_2.py)
 
