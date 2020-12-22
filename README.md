@@ -16,3 +16,8 @@
 
 [4.2 重映射——由原始图像进行复制、x轴翻转、y轴翻转、x&y翻旋转生成新图像](https://github.com/silencht/opencv_learn/blob/master/src/4_2.py)
 
+[4.3 投影变换](https://github.com/silencht/opencv_learn/blob/master/src/4_3.py)
+
+[4.4 两种极坐标变换](https://github.com/silencht/opencv_learn/blob/master/src/4_4.py)
+
+[5.2 统计直方图绘制](https://github.com/silencht/opencv_learn/blob/master/src/5_2.py)
