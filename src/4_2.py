@@ -3,7 +3,7 @@ import numpy as np
 
 #对矩阵进行重映射操作
 img = np.random.randint(0,256,size=[6,6],dtype=np.uint8)
-w ,h = img.shape #获取图像大小信息
+w ,h = img.shape #获取图像大小信息，shape[0]表示垂直尺寸，[1]代表水平尺寸
 x = np.zeros((w,h),np.float32)
 y = np.zeros((w,h),np.float32)
 for i in range(w):
@@ -17,6 +17,7 @@ print("rst=\n",rst)
 #利用重映射复制图像操作
 image = cv.imread("C:/Users/silencht/Desktop/Opencv_Learn/img/lena.png")
 w ,h = image.shape[:2] #获取图像大小信息
+print(w,h)
 x = np.zeros((w,h),np.float32)
 y = np.zeros((w,h),np.float32)
 for i in range(w):
