@@ -21,3 +21,10 @@
 [4.4 两种极坐标变换](https://github.com/silencht/opencv_learn/blob/master/src/4_4.py)
 
 [5.2 统计直方图绘制](https://github.com/silencht/opencv_learn/blob/master/src/5_2.py)
+
+[5.3 直方图正规化、手动直方图正规化](https://github.com/silencht/opencv_learn/blob/master/src/5_3.py)
+
+[5.4 直方图均衡化、手动直方图均衡化，自适应直方图均衡化](https://github.com/silencht/opencv_learn/blob/master/src/5_3.py)
+
+
+
