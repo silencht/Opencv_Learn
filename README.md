@@ -24,7 +24,7 @@
 
 [5.3 直方图正规化、手动直方图正规化](https://github.com/silencht/opencv_learn/blob/master/src/5_3.py)
 
-[5.4 直方图均衡化、手动直方图均衡化，自适应直方图均衡化](https://github.com/silencht/opencv_learn/blob/master/src/5_3.py)
+[5.4 直方图均衡化、手动直方图均衡化，自适应直方图均衡化](https://github.com/silencht/opencv_learn/blob/master/src/5_4.py)
 
 
 
