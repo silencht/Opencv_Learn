@@ -1,8 +1,8 @@
+### 《机器学习：基于opencv和python的智能图像处理》学习代码
 
+#### /img 存放程序用到的图片
 
-### /img 存放程序用到的图片
-
-### /src  存放程序源代码
+#### /src  存放程序源代码
 
 [3.2 读取图像、创建窗口、显示图像、写入图像、RGB拆分&amp;合并、打印图像属性](https://github.com/silencht/opencv_learn/blob/master/src/3_2.py )
 
@@ -26,5 +26,6 @@
 
 [5.4 直方图均衡化、手动直方图均衡化，自适应直方图均衡化](https://github.com/silencht/opencv_learn/blob/master/src/5_4.py)
 
+[6 图像平滑滤波：高斯、均值、方框、中值、双边滤波及2D卷积核的实现](https://github.com/silencht/opencv_learn/blob/master/src/6.py)
 
 
