@@ -28,4 +28,4 @@
 
 [6 图像平滑滤波：高斯、均值、方框、中值、双边滤波及2D卷积核的实现](https://github.com/silencht/opencv_learn/blob/master/src/6.py)
 
-
+[7.2 全局阈值处理：（反）二值化阈值处理、截断阈值处理、超(低)阈值零处理](https://github.com/silencht/opencv_learn/blob/master/src/7_2.py)
