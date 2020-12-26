@@ -29,3 +29,32 @@
 [6 图像平滑滤波：高斯、均值、方框、中值、双边滤波及2D卷积核的实现](https://github.com/silencht/opencv_learn/blob/master/src/6.py)
 
 [7.2 全局阈值处理：（反）二值化阈值处理、截断阈值处理、超(低)阈值零处理](https://github.com/silencht/opencv_learn/blob/master/src/7_2.py)
+
+[7.3 局部阈值处理](https://github.com/silencht/opencv_learn/blob/master/src/7_3.py)
+
+[7.4 OTSU阈值处理](https://github.com/silencht/opencv_learn/blob/master/src/7_4.py)
+
+[8.1 形态学：腐蚀](https://github.com/silencht/opencv_learn/blob/master/src/8_1.py)
+
+[8.2 形态学：膨胀](https://github.com/silencht/opencv_learn/blob/master/src/8_2.py)
+
+[8.3 形态学：梯度运算](https://github.com/silencht/opencv_learn/blob/master/src/8_3.py)
+
+[8.4 形态学：开运算、闭运算 ](https://github.com/silencht/opencv_learn/blob/master/src/8_4.py)
+
+[8.5 形态学：黑帽运算、礼帽运算](https://github.com/silencht/opencv_learn/blob/master/src/8_5.py)
+
+[9.1 图像分割处理：分水岭算法](https://github.com/silencht/opencv_learn/blob/master/src/9_1.py)
+
+[9.2 图像分割处理：上采样、下采样、高斯金字塔、拉普拉斯金字塔](https://github.com/silencht/opencv_learn/blob/master/src/9_2.py)
+
+[10.1 图像边缘检测：Sobel算子](https://github.com/silencht/opencv_learn/blob/master/src/10_1.py)
+
+[10.2 图像边缘检测：Scharr算子](https://github.com/silencht/opencv_learn/blob/master/src/10_2.py)
+
+[10.3 图像边缘检测：Canny算子](https://github.com/silencht/opencv_learn/blob/master/src/10_3.py)
+
+[10.4 图像边缘检测：Laplacian算子](https://github.com/silencht/opencv_learn/blob/master/src/10_4.py)
+
+[10.5 图像边缘检测：高斯拉普拉斯边缘检测](https://github.com/silencht/opencv_learn/blob/master/src/10_5.py)
+
